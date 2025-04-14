@@ -14,3 +14,16 @@ Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/8cb84903a47c
 3.0 Należy stworzyć jeden model z kontrolerem z produktami, zgodnie z CRUD
 
 Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/e489c30bf535fbe9c75568b1723fd8f93fe2fecc
+
+
+**Zadanie 3: Wzorce kreacyjne (Kotlin)**
+
+3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z listy na endpoint’cie w formacie JSON - Kotlin + Spring Boot
+
+3.5 Należy stworzyć klasę do autoryzacji (mock) jako Singleton w formie eager
+
+4.0 Należy obsłużyć dane autoryzacji przekazywane przez użytkownika
+
+4.5 Należy wstrzyknąć singleton do głównej klasy via @Autowired
+
+Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/e0ab6e928a934237a61ae6a8aa8feadc3c81be4e
