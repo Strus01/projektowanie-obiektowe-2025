@@ -27,3 +27,10 @@ Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/e489c30bf535
 4.5 Należy wstrzyknąć singleton do głównej klasy via @Autowired
 
 Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/e0ab6e928a934237a61ae6a8aa8feadc3c81be4e
+
+
+**Zadanie 4: Wzorce strukturalne (Go)**
+
+3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie (lub akcjach giełdowych)
+
+Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/7aab855a5c88096a43b211b372300e325722dc21
