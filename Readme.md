@@ -33,4 +33,4 @@ Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/e0ab6e928a93
 
 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie (lub akcjach giełdowych)
 
-Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/7aab855a5c88096a43b211b372300e325722dc21
+Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/ced1b96508ca180c6654f5e86ae72dbbe24d6ec3
