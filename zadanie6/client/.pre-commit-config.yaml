@@ -1,0 +1,10 @@
+default_stages: [pre-commit, pre-push]
+repos:
+  - repo: local
+    hooks:
+      - id: eslint
+        name: ESLint
+        entry: cmd /c "cd zadanie6\client && npx eslint src --ignore-pattern eslint.config.js --max-warnings 18"
+        language: system
+        files: ^zadanie6/client/src/
+        pass_filenames: false
