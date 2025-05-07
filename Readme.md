@@ -34,3 +34,17 @@ Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/e0ab6e928a93
 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie (lub akcjach giełdowych)
 
 Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/ced1b96508ca180c6654f5e86ae72dbbe24d6ec3
+
+
+**Zadanie 5: Wzorce behawioralne**
+
+3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej;
+
+Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/7b6acb01cf185b5e2aefae2fd5598585128e1889
+
+
+**Zadanie 6: Zapaszki**
+
+3.0 Należy dodać eslint w hookach gita
+
+Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/d8d920c11425d84a42a81606ed64b8f345c487e8
