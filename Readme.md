@@ -48,3 +48,10 @@ Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/7b6acb01cf18
 3.0 Należy dodać eslint w hookach gita
 
 Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/d8d920c11425d84a42a81606ed64b8f345c487e8
+
+
+**Zadanie 7: Antywzorce (Vapor Swift)**
+
+3.0 Należy stworzyć kontroler wraz z modele Produktów zgodny z CRUD w ORM Fluent
+
+Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/bf7f3b4c3673309f61e5c107822c156234fb7ab3
