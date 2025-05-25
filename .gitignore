@@ -4,3 +4,6 @@
 */.build
 */db.sqlite
 */Package.resolved
+*/venv
+.vscode
+*/__pycache__
