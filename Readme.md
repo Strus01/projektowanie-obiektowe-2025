@@ -55,3 +55,10 @@ Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/d8d920c11425
 3.0 Należy stworzyć kontroler wraz z modele Produktów zgodny z CRUD w ORM Fluent
 
 Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/bf7f3b4c3673309f61e5c107822c156234fb7ab3
+
+
+**Zadanie 8: Testy**
+
+3.0 Należy stworzyć 30 przypadków testowych w Pythonie w WebDriverze
+
+Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/824554b013fe018638c98664ec8f129db2ff0eb9
