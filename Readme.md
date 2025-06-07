@@ -62,3 +62,10 @@ Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/bf7f3b4c3673
 3.0 Należy stworzyć 30 przypadków testowych w Pythonie w WebDriverze
 
 Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/824554b013fe018638c98664ec8f129db2ff0eb9
+
+
+**Zadanie 9:  Mobile first (Android)**
+
+3.0 stworzyć listę kategorii oraz produktów
+
+Kod: https://github.com/Strus01/projektowanie-obiektowe-2025/commit/43307ef7e54ca317441ccc349baeffc8cd5bccd4
